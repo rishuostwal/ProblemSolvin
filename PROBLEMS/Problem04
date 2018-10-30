@@ -1,0 +1,17 @@
+# Problem04
+
+Mathematics basic operations pattern.
+The objective of this problem is to print out The mathematics basic operations.
+
+TestCase:
+
+#---------------------------#
+| Case | Input | Output     |
+#---------------------------#
+| #01  | 1     | +          |
+| #02  | 5     | +-*/+      |
+| #03  | 7     | +-*/+-*    |
+| #04  | 0     | :(         |
+| #05  | 10    | +-*/+-*/+- |
+#---------------------------#
+
